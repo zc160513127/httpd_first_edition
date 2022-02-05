@@ -1,0 +1,21 @@
+{
+        "jsonTag": "zhifei_ship_info",
+        "shipName": "zhifei",
+        "shipType": "container",
+        "MMSI": "413286730",
+        "shipStatus": "OFFLINE",
+        "messageStatus": "FAIL,check server connection!!",
+        "timestamp": "20220110222545287711",
+        "sensor_data": {
+                "rot": null,
+                "hdt": null,
+                "cog": null,
+                "sog": null,
+                "lon": null,
+                "lat": null,
+                "pitch": null,
+                "roll": null,
+                "windDirection": null,
+                "windSpeed": null
+        }
+}

@@ -1,0 +1,20 @@
+{
+    "jsonTag": "zhifei_ship_info",
+    "shipName": "zhifei",
+    "shipType": "container",
+    "MMSI": "1234567",
+    "shipStatus": "ONLINE",
+    "messageStatus": "Success",
+    "sensor_data": {
+        "rot": "000.66",
+        "hdt": "357.8",
+        "cog": "0.00",
+        "sog": "0.00",
+        "lon": "12052.36080394E",
+        "lat": "3622.40313364N",
+        "pitch": "+001.54",
+        "roll": "+001.05",
+        "windDirection": "346.6",
+        "windSpeed": "003.3"
+    }
+}
